@@ -22,6 +22,15 @@ _**IMPORTANT NOTE:**_ This project does not wholly offer the functionality for w
 * `SuperScript.Container.Mvc.BaseContainer`
 
   This is an abstract class which offers the base functionality required for a container block on an MVC Razor view.
-  
+
+
+##Dependencies
+There are a variety of SuperScript projects, some being dependent upon others.
+
+* [`SuperScript.Common`](https://github.com/Supertext/SuperScript.Common)
+
+  This library contains the core classes which facilitate all other SuperScript modules but which won't produce any meaningful output on its own.
+
+
   
 `SuperScript.Container.Mvc` has been made available under the [MIT License](https://github.com/Supertext/SuperScript.Container.Mvc/blob/master/LICENSE).
