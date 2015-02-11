@@ -1,0 +1,34 @@
+<div class="row">
+
+	<div class="col-xs-12">
+	
+		<h2>What Does It Do?</h2>
+		
+		<p>
+			This library is an add-on for <a href="https://github.com/Supertext/SuperScript" target="_blank">SuperScript</a>. It is strongly recommended
+			to read the <a href="http://supertext.github.io/SuperScript/" target="_blank">documentation</a> for the core project before proceeding with this 
+			library. If you haven't yet read the core documentation then it is recommended that you start by reading about the 
+			<a href="http://supertext.github.io/SuperScript/core-concepts.html" target="_blank">core concepts</a>.
+		</p>
+		
+		<p>
+			SuperScript.Container.Mvc contains the core code used by higher-level, more functional SuperScript projects which offer
+			a Razor view-based block for enclosing server-side entities to be processed by SuperScript.
+		</p>
+		
+		<pre class="brush: c#">
+		  public abstract class BaseContainer : IDisposable
+		  {
+		    protected BaseContainer(HtmlHelper helper, string emitterKey, int? insertAt)
+		    public abstract void Dispose()
+	    }
+		</pre>
+		
+		<p>
+		  The above abstract class contains the base functionality for retrieving the contents of a derived code block, allowing the 
+		  derived implementation to move the contents into an implementation of <abbr title="SuperScript.Declarables.DeclarationBase"><code>DeclarationBase</code></abbr>.
+		</p>
+		
+	</div>
+
+</div>
