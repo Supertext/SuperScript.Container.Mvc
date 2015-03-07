@@ -11,6 +11,7 @@ C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperSc
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\bin\Debug\System.Web.WebPages.dll
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\bin\Debug\System.Web.WebPages.Razor.dll
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\bin\Debug\SuperScript.Common.pdb
+C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\bin\Debug\SuperScript.Common.xml
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\bin\Debug\HtmlAgilityPack.pdb
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\bin\Debug\HtmlAgilityPack.xml
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\bin\Debug\System.Web.Helpers.xml
@@ -22,4 +23,3 @@ C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperSc
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\obj\Debug\SuperScript.Container.Mvc.csprojResolveAssemblyReference.cache
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\obj\Debug\SuperScript.Container.Mvc.dll
 C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\obj\Debug\SuperScript.Container.Mvc.pdb
-C:\Users\Andrew\Documents\Visual Studio 2012\Projects\SuperScriptLibrary\SuperScript.Container.Mvc\bin\Debug\SuperScript.Common.xml
